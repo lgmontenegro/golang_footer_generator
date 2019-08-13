@@ -1,4 +1,4 @@
-#Footer Pagination Exercise#
+# Footer Pagination Exercise
 
 This exercise consists in to create the base for a footer where you inform the current page, the number of pages, the number of pages on each side of current pages and the number of pages at the footer's border.
 "..." will be used to fulfill the lack of pages
